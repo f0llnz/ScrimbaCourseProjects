@@ -1,0 +1,21 @@
+.Footer{
+    width: 500px;
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+    display:flex;
+    align-items: center;
+    height: 50px;
+}
+
+.IconsM{
+    width: 27px;
+    cursor: pointer;
+}
+
+.Icons{
+    display: flex;
+    width: 500px;
+    padding-left: 100px;
+    padding-right: 100px;
+    gap: 60px;
+}
